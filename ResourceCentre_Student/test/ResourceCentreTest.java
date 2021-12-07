@@ -12,7 +12,7 @@ public class ResourceCentreTest {
 	private Camcorder cc3;
 	private Chromebook cb1;
 	private Chromebook cb2;
-	Private Chromebook cb3;
+	Private Chromebook cb4;
 	
 	private ArrayList<Camcorder> camcorderList;
 	private ArrayList<Chromebook> chromebookList;
@@ -29,7 +29,7 @@ public class ResourceCentreTest {
 		cc3 = new Camcorder("CC0013", "panasoni DSC-RX100M7", 30);
 		cb1 = new Chromebook("CB0011", "My Google Chromebook 1st", "Mac OS");
 		cb2 = new Chromebook("CB0012", "SAMSUNG Chromebook 4+", "Win 10");
-		cb3 = new Chromebook("CB0013", "HUAWEI Magicbook 4+", "MAC 10");
+		cb4 = new Chromebook("CB0013", "HUAWEI Magicbook 4+", "MAC 10");
 		
 		camcorderList= new ArrayList<Camcorder>();
 		chromebookList= new ArrayList<Chromebook>();
